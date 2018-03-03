@@ -1,6 +1,5 @@
 # stroke-recognizer-rapid-mix-js
 
-> A Vue.js project
 It uses the rapid mix api to do dynamic time warping classification on strokes on a canvas. Just a little test of mine of combining the beatiful vue.js framework with machine learning.
 
 ## Build Setup

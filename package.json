@@ -1,9 +1,9 @@
 {
-  "name": "stroke-recognizer-rapid-mix-js",
-  "description": "A Vue.js project",
+  "name": "stroke-recogniser-rapidmix",
+  "description": "stroke recogniser rapidmix",
   "version": "1.0.0",
   "author": "Theodoros Papatheodorou <theo@randomquark.com>",
-  "license": "MIT",
+  "license": "GPL2",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
